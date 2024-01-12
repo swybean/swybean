@@ -2,6 +2,7 @@
 
 - SSAFY StratCamp
 - Algorithm
+- [MENU](https://github.com/swybean/MENU)
 
 
 
