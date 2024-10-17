@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-- SSAFY StratCamp
-- Algorithm
-
 
 
 
